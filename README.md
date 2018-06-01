@@ -1,2 +1,2 @@
 # practicalsql
-A repo that contains the excercise files from the book Practical SQL from Anthony DeBarros.
+A repo that contains my files, configurations on CodeAnywhere during my learnings from the book Practical SQL by Anthony DeBarros
